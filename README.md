@@ -12,7 +12,7 @@ educación online.
 
 ## Instalación
 ```
-npm  install Platzom
+npm  install platzom
 ```
 ## Uso
 ```
