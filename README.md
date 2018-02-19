@@ -8,7 +8,7 @@ educación online.
 - Si la palabra termina con "ar", se le quitan esas dos letras
 - Si la palabra inicia con "z", se le añade "pe" al final
 - Si la palabra tiene 10 o mas letras, se debe partir en dos por la mitad y unir con un guion
-- Si la palabra es palindromo, obvia todas las reglas anteriores y se delvuelve intercalada por mayusculas y minusculas
+- Si la palabra es palindromo, obvia todas las reglas anteriores y se devuelve intercalada por mayusculas y minusculas
 
 ## Instalación
 ```
