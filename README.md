@@ -17,7 +17,12 @@ npm  install platzom
 ## Uso
 ```
 import platzom from 'platzom'
+
 platzom('programar') // program
+platzom("Zorro") // Zorrope
+platzom("Zarpar") // Zarppe
+platzom("abecedario") // abece-dario
+platzom("sometemos") // SoMeTeMoS
 ```
 ## Créditos
 - [Jahdiel Vargas](https://platzi.com/@jahdielvargas/)
